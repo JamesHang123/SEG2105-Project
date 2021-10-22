@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1027721938842",
+    "firebase_url": "https://ceg2136database-default-rtdb.firebaseio.com",
+    "project_id": "ceg2136database",
+    "storage_bucket": "ceg2136database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027721938842:android:091c84729e1aeb81b85c23",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027721938842-jpdugv5ccnrgg64g2vjfflbe1uebpn53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCADP79eY6V7BNhLRz2UR6FSkRb3MUBXio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027721938842-jpdugv5ccnrgg64g2vjfflbe1uebpn53.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
